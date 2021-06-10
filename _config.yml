@@ -13,17 +13,18 @@ url:                 https://KiHoonAhn1.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "All roads lead to data."
+tagline:             "This is KiHoonAhn's blog"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Data science enthusiast and addict :)
+  MultiCampus `BigData를 활용한 Iot 시스템 개발`
+  SSAFY 5기
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              min
-  email:             dksrlgns1@gmail.com ##수정함
+  name:              kihoon
+  email:             dksrlgns1@gmail.com
 
 # Fallback image and color
 image:               /assets/img/main_left.jpg
@@ -48,10 +49,10 @@ google_analytics:    UA-137374202-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus: True
-disqus_shortname:    theorydb
+disqus_shortname:    KiHoon Ahn
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2019.04. by theorydb'
+copyright:           '&copy; 2021.06. by KiHoon Ahn'
 
 # Format of the permalinks
 permalink:           pretty
