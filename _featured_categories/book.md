@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Dev
-slug: dev
+title: Book
+slug: book
 menu: true
 submenu: true
 order: 3

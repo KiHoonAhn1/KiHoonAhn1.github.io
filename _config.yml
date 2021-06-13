@@ -18,8 +18,7 @@ tagline:             "This is KiHoonAhn's blog"
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  * MultiCampus `BigData를 활용한 Iot 시스템 개발`  
-  * SSAFY 5기
+  MultiCampus, SSAFY 5기
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
@@ -49,7 +48,7 @@ google_analytics:    UA-137374202-1
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus: True
-disqus_shortname:    KiHoon Ahn
+disqus_shortname:    kihoonahn1-github-io
 
 # This text will appear in the footer of every page. Markdown enabled.
 copyright:           '&copy; 2021.06. by KiHoon Ahn'

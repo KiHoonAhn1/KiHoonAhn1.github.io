@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: EnvOps
-slug: envOps
-category: envOps
+title: Review
+slug: review
+category: book
 menu: false
 order: 1
 ---

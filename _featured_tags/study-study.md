@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Statistics & R
-slug: r
-category: dev
+title: Study
+slug: study
+category: study
 menu: false
 order: 1
 ---
