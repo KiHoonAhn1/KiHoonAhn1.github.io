@@ -2,8 +2,8 @@
 layout: post
 title:  "[연습] practice"
 subtitle:   "this is subtitle"
-categories: review
-tags: practice 연습 이거되나 돼라!
+categories: study
+tags: study TIL 연습 이거되나 돼라!
 comments: true
 header-img: img/review/2019-07-08-review-book-game-algorithm-1.jpg
 ---
