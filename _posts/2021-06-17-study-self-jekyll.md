@@ -168,6 +168,16 @@ $ bundle exec jekyll serve
 
 ### 구글 검색엔진 노출
 
+> [참고 출처](https://mkl0819.github.io/category/blog/2019-12-07-google-search/#_navigation)
+
+1. [링크](https://search.google.com/search-console/welcome)로 들어가 내 깃허브 주소(`https://KiHoonAhn1.github.io`) 등록 후 `계속` 버튼 클릭
+2. html 파일을 다운로드 받아 블로그 폴더의 `root` 위치로 이동
+3. 블로그 업데이트 후, `확인` 버튼 클릭
+4. sitemap.xml 파일 생성 후 코드 작성
+5. feed.xml 파일 생성 후 코드 작성
+6. robots.xml 파일 생성 후 코드 작성(블로그에는 txt라 작성되어 있는데 바뀐 것 같다.)
+7. _config.yml의 url 확인
+
 
 
 
