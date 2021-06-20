@@ -5,7 +5,6 @@ subtitle:   "혼자 배워보는 Jekyll"
 categories: study
 tags: self
 comments: true
-header-img: img/review/2019-07-08-review-book-game-algorithm-1.jpg
 ---
 
 > 혼자 만들어보는 git blog
@@ -54,7 +53,7 @@ $ bundle exec jekyll serve
 * https://theorydb.github.io/
   * 다른 기본 테마로 하려니 오류가 너무 많이 나서 이분 깃허브를 다운로드 받아 수정함
 * https://www.jihyeleee.com/
-  * css가 맘에 든다. 가져오자!!
+  * css가 맘에 든다!
 
 
 
@@ -69,7 +68,7 @@ $ bundle exec jekyll serve
 
 
 
-## 수정 중
+## 수정한 것
 
 ### _config.yml
 
@@ -167,6 +166,12 @@ $ bundle exec jekyll serve
 
 
 
+### 구글 검색엔진 노출
+
+
+
+
+
 ## 고치고 싶은 것
 
 * 현재 어디 있는지, left-navbar에 나타내주자
@@ -182,3 +187,16 @@ $ bundle exec jekyll serve
   * 사진 한 장 미리보기 기능을 넣자
     * `_includes/post-list-item.html`을 수정하거나 프로젝트용 list를 생성해주자
 
+* ~~구글에 내 게시물 노출시키기~~
+* 광고
+* Book - 좋은 문장 page layout 바꾸기
+  * 작가 노출을 위해 한 줄 정도만 보여주고, 'Continue reading!' 부분을 지우고 싶다
+* 노출된 태그의 횟수 별로 정리하는 기능
+
+
+
+## 깨달은 것
+
+* `<font color = blue> 글자 </font>` 로 글자 색 변경
+
+* 
