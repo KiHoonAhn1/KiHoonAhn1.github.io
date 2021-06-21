@@ -168,17 +168,23 @@ $ bundle exec jekyll serve
 
 ### 구글 검색엔진 노출
 
-> [참고 출처](https://mkl0819.github.io/category/blog/2019-12-07-google-search/#_navigation)
+> [참고1](https://mkl0819.github.io/category/blog/2019-12-07-google-search/#_navigation)
+>
+> [참고2](https://maejinkim.github.io/%EB%B8%94%EB%A1%9C%EA%B7%B8/%EA%B2%80%EC%83%89%EC%B6%94%EA%B0%80/)
 
 1. [링크](https://search.google.com/search-console/welcome)로 들어가 내 깃허브 주소(`https://KiHoonAhn1.github.io`) 등록 후 `계속` 버튼 클릭
 2. html 파일을 다운로드 받아 블로그 폴더의 `root` 위치로 이동
-3. 블로그 업데이트 후, `확인` 버튼 클릭
-4. sitemap.xml 파일 생성 후 코드 작성
-5. feed.xml 파일 생성 후 코드 작성
-6. robots.xml 파일 생성 후 코드 작성(블로그에는 txt라 작성되어 있는데 바뀐 것 같다.)
-7. _config.yml의 url 확인
-
-
+3. gem install
+   * gem install jekyll-feed => plugins에 추가
+   * gem install jekyll sitemap => plugins에 추가
+4. `sitemap.xml `파일 생성 후 코드 작성
+5. `feed.xml` 파일 생성 후 코드 작성
+6. `robots.txt` 파일 생성 후 코드 작성
+   * 검색엔진 크롤링하는 것을 도와준다
+7. `_config.yml`의 url 확인
+8. 블로그 업데이트 후, `확인` 버튼 클릭
+9. left-navbar에서 Sitemaps에 sitemap.xml 제출
+10. 며칠 지나면 **가져올 수 없음**에서 정상으로 바뀐다고 한다.
 
 
 
