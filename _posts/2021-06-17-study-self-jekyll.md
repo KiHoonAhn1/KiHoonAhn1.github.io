@@ -230,6 +230,7 @@ $ bundle exec jekyll serve
 * 광고
 * Book - 좋은 문장 page layout 바꾸기
   * 작가명 노출을 위해 한 줄 정도만 보여주고, 'Continue reading!' 부분을 지우고 싶다
+  * `_includes/page.html` 에서 바꿔줘야 함
 * 노출된 태그의 횟수 별로 정리하는 기능
 
 
@@ -237,5 +238,3 @@ $ bundle exec jekyll serve
 ## 깨달은 것
 
 * `<font color = blue> 글자 </font>` 로 글자 색 변경
-
-* 
