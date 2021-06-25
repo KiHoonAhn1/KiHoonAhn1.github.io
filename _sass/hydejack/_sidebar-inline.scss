@@ -126,11 +126,15 @@
     -ms-overflow-style: none;  // IE 10+
     overflow: -moz-scrollbars-none;  // Firefox
     height: 100%;
-   overflow: auto;
+    overflow: auto;
     position: absolute;
-    padding: 3rem 0rem;
+    padding: 0rem 0rem;
     right: 2.5rem;
     left:   2.5rem;
+  } 
+
+  h1 {
+    margin: 16px 0 10px 0;
   }
 }
 .sidebar-sticky::-webkit-scrollbar {

@@ -166,7 +166,7 @@ $ bundle exec jekyll serve
 
 
 
-### 구글 검색엔진 노출
+### 구글 검색엔진 노출(잘 안돼서 진행중)
 
 > [참고1](https://mkl0819.github.io/category/blog/2019-12-07-google-search/#_navigation)
 >
@@ -188,6 +188,29 @@ $ bundle exec jekyll serve
 
 
 
+### nav 수정
+
+> overflow 기능이 있긴 하지만, 없는 것이 한눈에 보기 좋을 것 같아 간격 조정
+>
+> 기존 template은 br로 간격 조정을 해둔 부분이 많았다.
+
+* `includes/sidebar.html`
+  * br 몇개 제거
+* `hydejack/_sidebar-inline.scss`
+  * `.sidebar-sticky > h1`만들어서 margin 속성 추가
+    * 기본적인 h1 style이 있기 때문에 따로 추가해줘야 한다.
+  * left와 right 위치 변경
+* `assets/tipuesearch/css/tipuesearch.css`
+  * tipue\_search\_icon의 width, height 변경
+  * left와 right의 border 색 변경
+  * left의 max-height을 40px로 변경
+* `assets/main_left.jpg`
+  * 왼쪽 배경사진 변경
+* img 상위에 button 추가 후, `tipue_search_button` class로 주고 속성 추가
+  * 이미지 클릭으로도 검색 가능하게 만듦
+
+
+
 ## 고치고 싶은 것
 
 * 현재 어디 있는지, left-navbar에 나타내주자
@@ -206,7 +229,7 @@ $ bundle exec jekyll serve
 * ~~구글에 내 게시물 노출시키기~~
 * 광고
 * Book - 좋은 문장 page layout 바꾸기
-  * 작가 노출을 위해 한 줄 정도만 보여주고, 'Continue reading!' 부분을 지우고 싶다
+  * 작가명 노출을 위해 한 줄 정도만 보여주고, 'Continue reading!' 부분을 지우고 싶다
 * 노출된 태그의 횟수 별로 정리하는 기능
 
 
