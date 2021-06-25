@@ -188,9 +188,28 @@ $ bundle exec jekyll serve
 
 
 
+### 네이버 검색엔진 노출
+
+> [참고 링크](https://kpiswon.github.io/jekyll/2020/08/20/googlingable.html)
+
+[네이버 웹마스터 도구](https://searchadvisor.naver.com/)에 접속하여 등록하여야 한다. 사이트 등록을 시작하면 사이트 소유확인을 거치게 되는 데 자신이 편한 방법으로 시키는대로 하면 된다. 소유권 확인이 완료되면 RSS를 등록하는 과정이 필요하다.
+
+> 1. 왼쪽 메뉴의 요청 > RSS 제출을 들어간다.
+> 2. 블로그URL/feed.xml 을 입력한다.
+> 3. 다시 요청 > 사이트맵제출로 들어간다.
+> 4. 블로그URL/sitemap.xml을 입력한다.
+
+
+
+### 다음 검색엔진 노출
+
+[Daum 검색등록](https://register.search.daum.net/index.daum)에 로그인 후 자신의 URL을 등록만 하면 된다.
+
+
+
 ### nav 수정
 
-> overflow 기능이 있긴 하지만, 없는 것이 한눈에 보기 좋을 것 같아 간격 조정
+> overflow 기능이 있긴 하지만, 무엇을 클릭하기 전에는 없는 것이 한눈에 보기 좋을 것 같아 간격 조정
 >
 > 기존 template은 br로 간격 조정을 해둔 부분이 많았다.
 
@@ -238,3 +257,4 @@ $ bundle exec jekyll serve
 ## 깨달은 것
 
 * `<font color = blue> 글자 </font>` 로 글자 색 변경
+
