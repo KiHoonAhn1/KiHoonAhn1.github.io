@@ -18,6 +18,10 @@ comments: true
 > vue와 Jekyll을 함께 사용하는 방법을 찾아봤지만 정보가 별로 없었고, Jekyll에 대해 잘 알지 못해 알아보다 보니 Jekyll로만 블로그를 만들어보기로 결정했다.
 
 
+* TOC
+{:toc}
+
+
 
 ## Blog 제작 과정
 
@@ -188,6 +192,16 @@ $ bundle exec jekyll serve
 
 
 
+#### sitemap.xml 수정
+
+https://www.web-site-map.com/xml_sitemap.php
+
+> 여기서 내 주소 입력 후, Daily만 Weekly로 변환시키고 이걸 가져와서 sitemap.xml로 사용해보자
+
+
+
+
+
 ### 네이버 검색엔진 노출
 
 > [참고 링크](https://kpiswon.github.io/jekyll/2020/08/20/googlingable.html)
@@ -230,6 +244,13 @@ $ bundle exec jekyll serve
 
 
 
+### 광고(검토 진행 중)
+
+* [Google Adsense](https://www.google.co.kr/intl/ko/adsense/start/?utm_medium=cpc&utm_source=google&utm_campaign=1001272-adsense-acquisition-kr-ko-hybrid-bkws&utm_term=google%20adsense&utm_content=224589754532&gclid=CjwKCAjwoNuGBhA8EiwAFxomA2XCQ-Wa3XxsDZbem_qgCwz2uAFBKuS3ZlZY9pj0pasJSnYk0eO_LBoCNgQQAvD_BwE)에 들어가 사이트 등록 후, `data-as-client`에 들어가는 코드 변경
+* 현재 검토 진행 중(21-06-26)
+
+
+
 ## 고치고 싶은 것
 
 * 현재 어디 있는지, left-navbar에 나타내주자
@@ -246,7 +267,7 @@ $ bundle exec jekyll serve
     * `_includes/post-list-item.html`을 수정하거나 프로젝트용 list를 생성해주자
 
 * ~~구글에 내 게시물 노출시키기~~
-* 광고
+* 광고(adsense)
 * Book - 좋은 문장 page layout 바꾸기
   * 작가명 노출을 위해 한 줄 정도만 보여주고, 'Continue reading!' 부분을 지우고 싶다
   * `_includes/page.html` 에서 바꿔줘야 함
@@ -258,3 +279,9 @@ $ bundle exec jekyll serve
 
 * `<font color = blue> 글자 </font>` 로 글자 색 변경
 
+* 목차(TOC) 사용법
+
+  * ```
+    * TOC
+    {:toc}
+    ```
