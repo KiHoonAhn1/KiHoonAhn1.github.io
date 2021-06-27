@@ -200,6 +200,10 @@ https://www.web-site-map.com/xml_sitemap.php
 
 
 
+### robots.txt 수정
+
+sitemap은 따로 제출했으므로 해당 code 삭제
+
 
 
 ### 네이버 검색엔진 노출
