@@ -273,6 +273,8 @@ https://www.web-site-map.com/xml_sitemap.php
   * `_includes/page.html` 에서 바꿔줘야 함
 * 노출된 태그의 횟수 별로 정리하는 기능
 
+* 모바일 navbar에 'x' 클릭해 닫는 기능
+
 
 
 ## 깨달은 것
@@ -281,7 +283,9 @@ https://www.web-site-map.com/xml_sitemap.php
 
 * 목차(TOC) 사용법
 
-  * ```
+  * ```markdown
     * TOC
     {:toc}
     ```
+    
+    
