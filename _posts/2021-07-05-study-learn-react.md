@@ -3,7 +3,7 @@ layout: post
 title:  "[React] React tic-tac-toe 연습"
 subtitle:   "혼자 공부해보는 React"
 categories: study
-tags: study
+tags: learn react
 comments: true
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "[R] R 설치&설정 및 내용 요약"
 subtitle:   "수업시간에 배운 R"
 categories: study
-tags: study R
+tags: learn R
 comments: true
 header-img: ''
 ---

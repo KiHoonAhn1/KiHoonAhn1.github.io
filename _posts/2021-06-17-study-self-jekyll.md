@@ -295,4 +295,8 @@ sitemap은 따로 제출했으므로 해당 code 삭제
     {:toc}
     ```
     
-    
+
+* Google Search Console에 글이 노출되지 않아요!
+  * 카테고리와 태그를 동일한 이름으로 설정하면 Google Search Console을 통해 노출시키는데 적합하지 않은 것 같다.(다르게 한 것들만 노출됨)
+  * 바꾸고 어떻게 됐을까?
+

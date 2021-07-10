@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Study
-slug: study
+slug: learn
 category: study
 menu: false
 order: 1

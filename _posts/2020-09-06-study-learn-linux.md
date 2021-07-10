@@ -3,7 +3,7 @@ layout: post
 title:  "[LINUX] 리눅스 설치&초기설정 방법"
 subtitle:   "수업시간에 배운 LINUX"
 categories: study
-tags: study
+tags: learn linux
 comments: true
 header-img: img/review/2019-07-08-review-book-game-algorithm-1.jpg
 ---

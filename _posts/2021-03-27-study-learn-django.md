@@ -3,7 +3,7 @@ layout: post
 title:  "[Django] Django 설치&설정 및 내용 요약"
 subtitle:   "수업시간에 배운 Django"
 categories: study
-tags: study Django
+tags: learn Django
 comments: true
 ---
 

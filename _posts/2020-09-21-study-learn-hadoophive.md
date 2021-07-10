@@ -3,7 +3,7 @@ layout: post
 title:  "[Hadoop&Hive] 하둡&하이브 설치&초기설정 방법"
 subtitle:   "수업시간에 배운 Hadoop&Hive"
 categories: study
-tags: study
+tags: learn hadoop hive
 comments: true
 header-img: img/review/2019-07-08-review-book-game-algorithm-1.jpg
 ---
