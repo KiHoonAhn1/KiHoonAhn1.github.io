@@ -251,10 +251,11 @@ sitemap은 따로 제출했으므로 해당 code 삭제
 
 
 
-### 광고(검토 진행 중)
+### 광고(adsense)
 
 * [Google Adsense](https://www.google.co.kr/intl/ko/adsense/start/?utm_medium=cpc&utm_source=google&utm_campaign=1001272-adsense-acquisition-kr-ko-hybrid-bkws&utm_term=google%20adsense&utm_content=224589754532&gclid=CjwKCAjwoNuGBhA8EiwAFxomA2XCQ-Wa3XxsDZbem_qgCwz2uAFBKuS3ZlZY9pj0pasJSnYk0eO_LBoCNgQQAvD_BwE)에 들어가 사이트 등록 후, `data-as-client`에 들어가는 코드 변경
 * 현재 검토 진행 중(21-06-26)
+* 검토 완료(21-07-20)
 
 
 
@@ -272,15 +273,16 @@ sitemap은 따로 제출했으므로 해당 code 삭제
 * Project Category 생성
   * 사진 한 장 미리보기 기능을 넣자
     * `_includes/post-list-item.html`을 수정하거나 프로젝트용 list를 생성해주자
-
 * ~~구글에 내 게시물 노출시키기~~
-* 광고(adsense)
+* ~~광고(adsense)~~
+  * 통과
 * Book - 좋은 문장 page layout 바꾸기
   * 작가명 노출을 위해 한 줄 정도만 보여주고, 'Continue reading!' 부분을 지우고 싶다
   * `_includes/page.html` 에서 바꿔줘야 함
 * 노출된 태그의 횟수 별로 정리하는 기능
-
 * 모바일 navbar에 'x' 클릭해 닫는 기능
+* 광고가 2개 뜬다...
+* 방문자수 기능 추가하기 !
 
 
 
