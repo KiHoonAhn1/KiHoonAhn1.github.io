@@ -10,6 +10,8 @@ header-img: ''
 
 > 수업 시간에 배운 R 설치&설정 방법과 내용 정리
 
+
+
 # R
 
 ## 1. 시작 전
@@ -1080,3 +1082,4 @@ install.packages("devtools", type = "win.binary")
 * utf-8 일 때는 read.table 에서 fileEncoding
   아니면 encoding로 되는지 확인해보기
   --> 한글 사용을 위해 utf-8 사용하는 것
+
