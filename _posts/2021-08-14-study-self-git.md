@@ -42,7 +42,7 @@ comments: true
 
 <img src="https://kihoonahn1.github.io/assets/img/study/2020-08-13-study-self-git2.png" alt="image-20210815120442074" style="zoom:50%;" />
 
-<img src="https://kihoonahn1.github.io/assets/img/study/2020-08-13-study-self-git3.png.png" alt="image-20210815120644257" style="zoom:50%;" />
+<img src="https://kihoonahn1.github.io/assets/img/study/2020-08-13-study-self-git3.png" alt="image-20210815120644257" style="zoom:50%;" />
 
 
 
