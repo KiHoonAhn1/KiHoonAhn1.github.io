@@ -1,13 +1,10 @@
 ---
-
-
 layout: post
 title:  "[Git] 2021/8/13 git push 오류"
 subtitle:   "깃 보안 관련 이슈"
 categories: study
 tags: learn git
 comments: true
-header-img: ''
 ---
 
 > 갑작스러운 깃 보안 관련 이슈 해결
