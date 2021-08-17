@@ -3,7 +3,7 @@ layout: post
 title:  "[Jekyll] 블로그 개발 일지"
 subtitle:   "혼자 배워보는 Jekyll"
 categories: study
-tags: self
+tags: self Jekyll
 comments: true
 ---
 

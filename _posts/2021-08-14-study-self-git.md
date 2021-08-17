@@ -3,7 +3,7 @@ layout: post
 title:  "[Git] 2021/8/13 git push 오류"
 subtitle:   "깃 보안 관련 이슈"
 categories: study
-tags: learn git
+tags: self git
 comments: true
 ---
 
