@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "[Git] 2021/8/13 git push 오류"
-subtitle:   "깃 보안 관련 이슈"
+subtitle:  "깃 보안 관련 이슈"
 categories: study
 tags: self git
 comments: true
 ---
 
-> 갑작스러운 깃 보안 관련 이슈 해결
+> 깃 보안 관련 이슈 해결
 
 
 
