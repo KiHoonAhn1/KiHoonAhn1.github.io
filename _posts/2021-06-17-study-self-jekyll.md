@@ -170,7 +170,7 @@ $ bundle exec jekyll serve
 
 
 
-### 구글 검색엔진 노출(잘 안돼서 진행중)
+### 구글 검색엔진 노출
 
 > [참고1](https://mkl0819.github.io/category/blog/2019-12-07-google-search/#_navigation)
 >
@@ -197,6 +197,12 @@ $ bundle exec jekyll serve
 https://www.web-site-map.com/xml_sitemap.php
 
 > 여기서 내 주소 입력 후, Daily만 Weekly로 변환시키고 이걸 가져와서 sitemap.xml로 사용해보자
+
+
+
+#### sitemap.xml 강제 제출
+
+https://www.google.com/ping?sitemap=https://kihoonahn1.github.io/sitemap.xml
 
 
 
