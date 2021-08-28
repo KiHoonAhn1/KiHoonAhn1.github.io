@@ -147,6 +147,8 @@ $ bundle exec jekyll serve
       {% endblock %}
   {% endraw %}
 
+* category와 tag 이름을 동일하게 만들면 `https://kihoonahn1.github.com/study/study` 와 같은 방식으로 같은 주소로 2번 연결하기 때문에 구글에서 연결이 안되므로 주의하자
+
 
 
 ### category-list
