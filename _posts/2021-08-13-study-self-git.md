@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Git] 2021/8/13 git push 오류"
+title:  "[Git] 깃(git) 푸시(push) 에러 2021/8/13"
 subtitle:  "깃 보안 관련 이슈"
 categories: study
 tags: self git
